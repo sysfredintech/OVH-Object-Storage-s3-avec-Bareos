@@ -33,7 +33,7 @@
 2. Le conteneur d'objet créé sera maintenant identifié comme un bucket
 
 - Depuis l'onglet `Informations générales` du nouveau bucket, identifier ses attributs
-- Il sera nécessaire de connaître les éléments suivants: `Nom du bucket` et "Endpoint" pour la suite de la configuration
+- Il sera nécessaire de connaître les éléments suivants: `Nom du bucket` et `Endpoint` pour la suite de la configuration
 
 ---
 
